@@ -12,3 +12,5 @@ Computer Science and Engineering. I am 21 years old, and my hobbies are listenin
 coderboy53/coderboy53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ ## TryHackMe
+ <script src="https://tryhackme.com/badge/1393236"></script>
