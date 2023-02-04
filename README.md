@@ -13,4 +13,4 @@ coderboy53/coderboy53 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
  ## TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/xyz.mitra53.png" alt="TryHackMe">
+ 
