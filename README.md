@@ -6,7 +6,7 @@
 
 # About Me
 
-Hi, my name is Soham Mitra, I am a 3rd year undergrad at Vellore Institute of Technology, Chennai. I am currently pursuing my Major in 
+Hi, my name is Soham Mitra, I am a 4th year undergrad at Vellore Institute of Technology, Chennai. I am currently pursuing my Major in 
 Computer Science and Engineering. I am 21 years old, and my hobbies are listening to music, working out and gaming. I am proficient in English, Hindi and Bengali, with also beginner level proficiency in Japanese.
 <!---
 coderboy53/coderboy53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
