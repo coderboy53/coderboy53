@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ## TryHackMe
 
-![tryhackme stats](https://raw.githubusercontent.com/xyz.mitra53/xyz.mitra53/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/coderboy53/coderboy53/master/assets/thm_propic.png)
