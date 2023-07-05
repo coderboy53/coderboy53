@@ -15,3 +15,6 @@ You can click the Preview link to take a look at your changes.
 ## TryHackMe
 
 ![tryhackme stats](https://raw.githubusercontent.com/coderboy53/coderboy53/master/assets/thm_propic.png)
+
+## Github Stats
+[![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderboy53&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
