@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![tryhackme stats](https://raw.githubusercontent.com/coderboy53/coderboy53/master/assets/thm_propic.png)
 
 ## Github Stats
-[![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderboy53&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderboy53&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coderboy53&theme=midnight-purple)](https://git.io/streak-stats)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderboy53&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
