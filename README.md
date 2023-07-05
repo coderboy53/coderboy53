@@ -18,3 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Stats
 [![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderboy53&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderboy53)](https://github.com/anuraghazra/github-readme-stats)
